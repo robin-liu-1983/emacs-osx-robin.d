@@ -1,0 +1,43 @@
+
+# MacPorts Installer addition on 2014-05-25_at_17:08:16: adding an appropriate PATH variable for use with MacPorts.
+export GIT_SOURCE=/Users/r0b1n/git-source
+export SCALA_HOME=$GIT_SOURCE/scala-2.11.5
+export PATH=$SCALA_HOME/bin:/usr/local/bin/:/opt/local/bin/:/usr/local/git/bin:/Applications/XAMPP/bin:/opt/local/bin:/opt/local/sbin:/Users/r0b1n/Qt5.3.0/5.3/clang_64/bin:$PATH
+export GOPATH=/usr/local/go/bin/go
+
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+
+##
+# Your previous /Users/r0b1n/.profile file was backed up as /Users/r0b1n/.profile.macports-saved_2014-11-12_at_11:31:45
+##
+
+# MacPorts Installer addition on 2014-11-12_at_11:31:45: adding an appropriate PATH variable for use with MacPorts.
+export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+
+##
+# Your previous /Users/r0b1n/.profile file was backed up as /Users/r0b1n/.profile.macports-saved_2015-10-11_at_05:39:30
+##
+
+# MacPorts Installer addition on 2015-10-11_at_05:39:30: adding an appropriate PATH variable for use with MacPorts.
+export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+
+# added by Anaconda3 2.4.1 installer
+export PATH="/Users/r0b1n/anaconda/bin:$PATH"
+
+# added by Anaconda2 2.4.1 installer
+export PATH="/Applications/anaconda/bin:$PATH"
+
+# Added by Canopy installer on 2015-12-31
+# VIRTUAL_ENV_DISABLE_PROMPT can be set to '' to make bashprompt show that Canopy is active, otherwise 1
+VIRTUAL_ENV_DISABLE_PROMPT=1 source '/Users/r0b1n/Library/Enthought/Canopy_64bit/User/bin/activate'
+
+# added by Anaconda2 2.4.1 installer
+export PATH="/Users/r0b1n/anaconda/bin:$PATH"
+
+# added by Anaconda3 2.4.1 installer
+export PATH="/Users/r0b1n/anaconda/bin:$PATH"

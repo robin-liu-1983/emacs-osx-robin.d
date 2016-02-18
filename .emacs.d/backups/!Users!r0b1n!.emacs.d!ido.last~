@@ -1,0 +1,241 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter8/webapp-chapter8/" . "templates/")
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter8/" . "webapp-chapter8/")
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter7/webapp-chapter7/" . "cgi-bin/")
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter7/" . "webapp-chapter7/")
+ ("/Users/r0b1n/Music/" . "Dido/")
+ ("/Users/r0b1n/workspace/C++-GUI-Programming-with-Qt4/chap01/" . "hello/")
+ ("/Users/r0b1n/workspace/C++-GUI-Programming-with-Qt4/" . "chap01/")
+ ("/Users/r0b1n/workspace/head-first-python-code/" . "chapter8/")
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter19/newsite/" . "templates/")
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter19/" . "newsite/")
+ ("/Users/r0b1n/.emacs.d/elpa/yasnippet-20160131.948/snippets/" . "makefile-bsdmake-mode/")
+ ("/Users/r0b1n/.emacs.d/elpa/yasnippet-20160131.948/" . "snippets/")
+ ("/Users/r0b1n/.emacs.d/elpa/" . "yasnippet-20160131.948/")
+ ("/Users/r0b1n/Downloads/beginning-python-codes/" . "Chapter21/")
+ ("/Users/r0b1n/Downloads/" . "beginning-python-codes/")
+ ("/Volumes/Data/Downloads/beginning-python-codes/" . "Chapter6/")
+ ("/" . "Users/")
+ ("/Users/r0b1n/workspace/" . "head-first-python-code/")
+ ("/Users/r0b1n/Documents/" . "r0b1n/")
+ ("/Users/r0b1n/.emacs.d/ESS2/" . "etc/")
+ ("/Users/r0b1n/" . ".emacs.d/")
+ ("/Users/" . "r0b1n/")
+ ("/Users/r0b1n/.emacs.d/" . "custom/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/r0b1n/.emacs.d/"
+ "/Users/r0b1n/.emacs.d/custom/"
+ "/Users/r0b1n/workspace/robin-liu-1983.github.io/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter8/webapp-chapter8/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter8/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter7/webapp-chapter7/cgi-bin/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter7/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter8/webapp-chapter8/templates/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter7/webapp-chapter7/"
+ "/Users/r0b1n/Music/Dido/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter7/webapp-chapter7/images/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter6/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter5/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter4/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter3/"
+ "/Users/r0b1n/workspace/emacs-robin.d/"
+ "/Users/r0b1n/"
+ "/Users/r0b1n/workspace/Py-Test/"
+ "/Users/r0b1n/workspace/C++-GUI-Programming-with-Qt4/chap01/hello/"
+ "/Users/r0b1n/workspace/C++-GUI-Programming-with-Qt4/chap01/age/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter2/"
+ "/Users/r0b1n/workspace/R-in-Action2/"
+ "/Users/r0b1n/workspace/head-first-python-code/chapter1/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter21/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter19/newsite/templates/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter19/newsite/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter17/"
+ "/Users/r0b1n/.emacs.d/elpa/yasnippet-20160131.948/snippets/makefile-bsdmake-mode/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter16/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter15/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter14/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter13/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter12/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter11/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter10/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter9/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter8/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter7/Kitchen/"
+ "/Users/r0b1n/Downloads/beginning-python-codes/Chapter7/"
+ "/Volumes/Data/Downloads/beginning-python-codes/Chapter7/"
+ "/Volumes/Data/Downloads/beginning-python-codes/Chapter6/"
+ "/Volumes/Data/Downloads/beginning-python-codes/Chapter5/"
+ "/Volumes/Data/Code/HelloWorld/"
+ "/Users/r0b1n/Documents/r0b1n/"
+ "/Users/r0b1n/.emacs.d/ESS2/etc/"
+ "/Users/r0b1n/workspace/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "setup-basic.el"
+ "README.MD"
+ "index.html"
+ ".#index.html"
+ "coach.css"
+ "page286.py"
+ "page281.py"
+ "page280.py"
+ "page276.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/r0b1n/.emacs.d/" (22204 8130 0 0) "var/" "url/" "tutorial/" "snippets/" "slime2/" "semanticdb/" "screenrc" "request/" "places" "init.el" "ido.last" "idlwave/" "ESS2/" "elpa/" "custom/" "backups/" "auto-save-list/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/r0b1n/.emacs.d/custom/" (22204 8130 0 0) "sr-speedbar.el" "setup-w3m.el" "setup-slime.el" "setup-keys.el" "setup-helm.el" "setup-helm-gtags.el" "setup-ggtags.el" "setup-ess.el" "setup-editing.el" "setup-cedet.el" "setup-basic.el" "screenrc" "osx-pseudo-daemon.el" "mon-css-color.el" "markdown-preview-eww.el" "markdown-mode.el" "../" "./")
+
+ ("/Users/r0b1n/" (22204 8063 0 0) "zshrc/" "workspace/" "wekafiles/" "Thumbs.db" "Soft/" "screenrc" "Public/" "Pictures/" "node_modules/" "nltk_data/" "Music/" "Movies/" "Library/" "knime-workspace/" "identity" "id_rsa" "emacs-robin.d.zip" "Downloads/" "Documents/" "Desktop/" "Code/" "centos-ec2-usa.pem" "Applications/" "anaconda2/" ".zshrc~" ".zshrc" ".zsh_history" ".zsh-update" ".zinc/" ".zcompdump-r0b1n的MacBook Pro-5.0.8" ".z-e" ".z" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".wget-hsts" ".w3m/" ".vimrc.local" ".vimrc.bundles.local" ".vimrc.bundles" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tooling/" ".tmux.conf.local" ".tmux.conf" ".swt/" ".subversion/" ".stardict/" ".ssh/" ".spyder2-py3/" ".spyder2/" ".spark_history" ".smex-items" ".slime-history.eld" ".slime/" ".screenrc" ".scala_history" ".sbt/" ".rstudio-desktop/" ".rnd" ".Rhistory" ".RData" ".Rapp.history" ".python_history" ".pypirc" ".pylint.d/" ".PyCharm50/" ".putty/" ".psql_history" ".profile-anaconda.bak" ".profile" ".pgpass" ".p2/" ".ovftool.ssldb" ".oracle_jre_usage/" ".oh-my-zsh/" ".npm/" ".matplotlib/" ".macports/" ".m2/" ".local/" ".lobo/" ".liclipse/" ".keysnail.js" ".jupyter/" ".junique/" ".ivy2/" ".ipython/" ".ipynb_checkpoints/" ".idlerc/" ".httpie/" ".gitconfig" ".gem/" ".fontconfig/" ".filezilla/" ".eric6/" ".enstaller4rc" ".emacs.d/" ".eclipse/" ".DS_Store" ".docker/" ".distlib/" ".designer/" ".cups/" ".cpan/" ".continuum/" ".config/" ".chemaxon/" ".CFUserTextEncoding" ".canopy/" ".cache/" ".bash_sessions/" ".bash_history" ".backups/" ".astropy/" ".argouml/" ".android/" "../" "./")
+
+ ("/Users/r0b1n/workspace/" (22204 7565 0 0) "sl4a/" "scikit-fusion/" "sbcl/" "sample_database" "robin-liu-1983.github.io/" "R-in-Action2/" "python3-cookbook/" "Python-in-Practice/" "pyqt-book-3.1/" "pydata-book/" "Py-Test/" "programming-in-python3/" "pandas/" "orange3-example-addon/" "orange3/" "orange-ipynb/" "o3env/" "nltk_book/" "nltk3-cookbook/" "ML_for_Hackers_R/" "markdown-preview-eww/" "Learning-Python-4ed-examples/" "ipython-notebook.ipynb" "head-first-python-code/" "emacs-robin.d/" "django-bootstrap3/" "dive-into-python3/" "dive-into-python2/" "Deep-Learning-Tutorials/" "Core-Python-Applications-Programming/" "C++-GUI-Programming-with-Qt4/" "beginning-python3-codes/" "Advanced-Qt4-Programming/" "advance-Qt5-programming/" ".recommenders/" ".metadata/" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter8/webapp-chapter8/templates/" (22198 2021 0 0) "header.html" "footer.html" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/workspace/robin-liu-1983.github.io/" (22204 7938 0 0) "r0b1n@r0b1ndeMacBook-Pro.local.3735" "index.html" ".git/" ".#index.html" "../" "./")
+
+ ("/Volumes/" (22203 54446 0 0) "Mac OSX/" "InstallSystem/" "Data/" ".DS_Store" "../" "./")
+
+ ("/Volumes/Data/Downloads/" (22203 58885 0 0) "Python入门到精通教程下载.txt" "Python入门到精通教程下载 (2).txt" "Python入门到精通教程下载 (1).txt" ".ipynb_checkpoints/" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter8/webapp-chapter8/" (22198 2285 0 0) "templates/" "simple_httpd.py" "index.html" "images/" "favicon.ico" "data/" "coachapp.py" "coach.css" "cgi-bin/" "athletes.pickle" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter8/" (22198 43864 0 0) "webapp-chapter8.zip" "webapp-chapter8/" "page286.py" "page281.py" "page280.py" "page276.py" "page272.py" "page264.py" "coachkellysdataupdatedagain.zip" "__MACOSX/" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter7/webapp-chapter7/cgi-bin/" (22198 41488 0 0) "yate.py" "generate_timing_data.py" "generate_list.py" "athletemodel.py" "athletelist.py" "__pycache__/" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter7/" (22198 41194 0 0) "yatestuff.zip" "yate.py" "yate/" "webapp.zip" "webapp-chapter7.zip" "webapp-chapter7/" "templates/" "sarah2.txt" "page250.py" "page246.py" "page238.py" "page227.py" "page224.py" "mikey2.txt" "julie2.txt" "james2.txt" "athletes.pickle" "athletelist.py" "__pycache__/" "__MACOSX/" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter7/webapp-chapter7/images/" (19595 51708 0 0) "coach-head.jpg" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter7/webapp-chapter7/" (22198 1563 0 0) "templates/" "simple_httpd.py" "index.html" "images/" "favicon.ico" "data/" "coach.css" "cgi-bin/" "athletes.pickle" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/workspace/C++-GUI-Programming-with-Qt4/chap01/age/" (22197 54550 0 0) "age.pro" "age.cpp" "../" "./")
+
+ ("/Users/r0b1n/workspace/Py-Test/" (22197 49975 0 0) "test.py~" "test.pyc" "test.py" "pyqt4-test.py" "pyqt4-app.py" "plot_digits_classification.py" "nltk.py~" "nltk.pyc" "nltk.py" "ipython_log.py" "ipython3-notebook.ipynb" "ipython2-notebook.ipynb" "dataAnalysisWithPython.py~" "dataAnalysisWithPython.py" "__pycache__/" ".ipynb_checkpoints/" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter3/" (22197 60484 0 0) "sketch.txt" "page98.py" "page97.py" "page93.py" "page86.py" "page81.py" "page78.py" "page102.py" "other_data.txt" "man_data.txt" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter6/" (22197 63635 0 0) "sarah2.txt" "page210.py" "page196.py" "page187.py" "page182.py" "page176.py" "mikey2.txt" "julie2.txt" "james2.txt" "coachkellysupdateddata.zip" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter5/" (22197 62814 0 0) "sarah.txt" "page170.py" "page168.py" "page162.py" "page158.py" "page152.py" "page150.py" "page147.py" "page142.py" "mikey.txt" "julie.txt" "james.txt" "coachkellysdata.zip" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter4/" (22197 61427 0 0) "sort" "sketch.txt" "page134.py" "page128.py" "page122.py" "page115.py" "page112.py" "page108.py" "other_data.txt" "man_data.txt" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/workspace/emacs-robin.d/" (22197 59377 0 0) "zshrc" "tmux.conf" "screenrc" "README.md" "markdown-preview-eww-result.html" "LICENSE" "emacs.d/" ".Rhistory" ".git/" "../" "./")
+
+ ("/Users/r0b1n/Music/Dido/" (21988 20947 0 0) "Who makes you feel.mp3" "White flag.mp3" "Thank You.mp3" "Stoned.mp3" "Mary's in India.mp3" "Life for rent.mp3" "../" "./")
+
+ ("/Users/r0b1n/Music/" (22189 24866 0 0) "艾薇儿/" "老鹰乐队/" "玛丽亚凯莉/" "林肯公园/" "克里斯汀娜/" "乡村音乐44/" "U2/" "TopTen/" "Timbaland/" "RickyMartin/" "Mickle Learn to Rock/" "MarieCarrie/" "Madonna/" "lenyMartin/" "LeneMarin/" "iTunes/" "Enya/" "EnglishMusic/" "Dido/" "desktop.ini" "America Top 40/" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/r0b1n/Music/America Top 40/" (21754 26455 0 0) "40 40 Gary Allan - Watching Airplanes.mp3" "39 39 J. Holiday-Suffocate.mp3" "38 38 Brad Paisley-Letter To Me.mp3" "37 37 Carrie Underwood - All American Girl.mp3" "35 35 dream-Falsetto.mp3" "34 34 baby bash ft.t-pain-cyclone.mp3" "32 32 Natasha Bedingfield-Love Like This.mp3" "31 31 Jonas Brothers-When You Look Me In The Eyes.mp3" "30 30 trey songz-cant help but wait.mp3" "29 29 Rihanna- Hate That I Love You f, Ne-Yo.mp3" "28 28 Jordin Sparks-No Air (Duet With Chris Brown).mp3" "27 27 One Republic - Stop And Stare.mp3" "26 26 Mary J. Blige- Just Fine.mp3" "24 24 Colbie Caillat-Bubbly.mp3" "23 23 Taylor Swift-Our Song.mp3" "22 22 Finger Eleven-Paralyzer.mp3" "21 21 Keyshia Cole-I Remember.mp3" "20 20 Lupe Fiasco Ft Matthew Santos-Superstar.mp3" "19 19 santana-into the night (ft.chad kroeger).mp3" "18 18 webbie-independent.mp3" "16 16 Alicia Keys- Like You'll Never Seen Me Again.mp3" "15 15 Taylor Swift- Teardrops on my Guitar.mp3" "14 14 Miley Cyrus-See You Again.mp3" "13 13 fergie-clumsy (revisited).mp3" "11 11 sean kingston-take you there.mp3" "10 10 Buckcherry-sorry.mp3" "08 08 snoop dogg-sensual seduction.mp3" "07 07 sara bareilles-love song.mp3" "06 06 yael naim-new soul.mp3" "01 01 Flo Rida & T-Pain-Low.mp3" "../" "./")
+
+ ("/Users/r0b1n/workspace/C++-GUI-Programming-with-Qt4/chap01/hello/" (18308 6332 0 0) "hello.pro" "hello.cpp" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter2/" (22197 44082 0 0) "setup.py" "r0b1n@r0b1ndeMacBook-Pro.local.10151" "page68.py" "page59.py" "page40.py" "page38.py" "nester.py" "MANIFEST" "dist/" "build/" "__pycache__/" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/workspace/R-in-Action2/" (22186 61480 0 0) "test.R" "README.md" "R_in_Action_2nd_Edition-Errata.pdf" "npar_1.0.tar.gz" "mygraph.pdf" "lmPerm/" "data.Rdata" "Ch23 Bonus - Advanced graphics with the lattice package.R" "Ch22 DynamicReports/" "Ch22 Creating dynamic Reports.R" "Ch21 nparFiles/" "Ch21 Creating a package.R" "Ch20 Advanced R programming.R" "Ch19 Advanced graphics with ggplot2.R" "Ch18 Advanced methods for missing data.R" "Ch17 Classification.R" "Ch16 Cluster analysis.R" "Ch15 Time series.R" "Ch14 Principal components and factor analysis.R" "Ch13 Generalized linear models.R" "Ch12 Resampling statistics and bootstrapping.R" "Ch11 Intermediate graphs.R" "Ch10 Power analysis.R" "Ch09 Analysis of Variance.R" "Ch08 Regression.R" "Ch07 Basic statistics.R" "Ch06 Basic Graphs.R" "Ch05 Advanced data management.R" "Ch04 Basic data management.R" "Ch03 Getting started with graphs.R" "Ch02 Creating a dataset.R" "Ch01 Introduction to R.R" ".git/" "../" "./")
+
+ ("/Users/r0b1n/workspace/C++-GUI-Programming-with-Qt4/chap01/" (18308 6332 0 0) "quit/" "hello/" "age/" "../" "./")
+
+ ("/Users/r0b1n/workspace/C++-GUI-Programming-with-Qt4/" (18308 6332 0 0) "README.txt" "examples.pro" "chap24/" "chap23/" "chap22/" "chap21/" "chap20/" "chap19/" "chap16/" "chap15/" "chap14/" "chap13/" "chap12/" "chap10/" "chap09/" "chap08/" "chap07/" "chap06/" "chap05/" "chap04/" "chap03/" "chap02/" "chap01/" "appendixC/" "../" "./")
+
+ ("/Users/r0b1n/.emacs.d/elpa/yasnippet-20160131.948/snippets/makefile-bsdmake-mode/" (22196 38320 0 0) "var" "PHONY" "if" "gen" "echo" "all" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/chapter1/" (22197 25272 0 0) "page30.py" "page28.py" "page25.py" "page23.py" "page19.py" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/workspace/head-first-python-code/" (21489 22012 0 0) "chapter9/" "chapter8/" "chapter7/" "chapter6/" "chapter5/" "chapter4/" "chapter3/" "chapter2/" "chapter11/" "chapter10/" "chapter1/" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/Downloads/" (22197 23732 0 0) ".ipynb_checkpoints/" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter21/" (22193 20372 0 0) "verify.py" "jysys.py" "jyswing.py" "jystring.py" "JyScriptRunner.java" "jyjdbc.py" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter19/newsite/templates/" (19286 47788 0 0) "myfirsttemplate.html" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter19/newsite/" (22196 40421 0 0) "templates/" "myfirstview.py" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter19/" (22196 39951 0 0) "newsite/" "mysite/" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter17/" (22196 38739 0 0) "test.mp3" "test" "pylame3.so" "pylame3.py" "pylame3.c" "pylame2.so" "pylame2.py" "pylame2.c" "pylame1.c" "pylame/" "makefile" "clame.c" "#makefile#" "../" "./")
+
+ ("/Users/r0b1n/.emacs.d/elpa/yasnippet-20160131.948/snippets/" (22195 6974 0 0) "yaml-mode/" "web-mode" "udev-mode/" "typerex-mode" "tuareg-mode/" "text-mode/" "sql-mode/" "snippets/" "snippet-mode/" "sh-mode/" "scala-mode/" "ruby-mode/" "rst-mode/" "rename_add_contr.py" "README.md" "python-mode/" "prog-mode/" "perl-mode/" "org-mode/" "octave-mode/" "nxml-mode/" "nsis-mode/" "nesc-mode/" "ned-mode/" "markdown-mode/" "malabar-mode/" "makefile-mode/" "makefile-gmake-mode/" "makefile-bsdmake-mode/" "makefile-automake-mode/" "m4-mode/" "lua-mode/" "lisp-mode/" "lisp-interaction-mode/" "LICENSE" "latex-mode/" "js2-mode" "js-mode/" "java-mode/" "html-mode/" "haskell-mode/" "groovy-mode/" "go-mode/" "git-commit-mode/" "fundamental-mode/" "f90-mode/" "erlang-mode/" "erc-mode/" "ensime-mode" "enh-ruby-mode" "emacs-lisp-mode/" "elixir-mode/" "css-mode/" "csharp-mode/" "cpp-omnet-mode/" "cperl-mode/" "CONTRIBUTORS.txt" "conf-unix-mode/" "cmake-mode/" "clojure-mode/" "cider-repl-mode" "chef-mode/" "cc-mode/" "c-mode/" "c++-mode/" "applescript-mode/" "antlr-mode/" ".nosearch" ".gitignore" "../" "./")
+
+ ("/Users/r0b1n/.emacs.d/elpa/yasnippet-20160131.948/" (22195 6975 0 0) "yasnippet.elc" "yasnippet.el" "yasnippet-pkg.el" "yasnippet-autoloads.el" "snippets/" "../" "./")
+
+ ("/Users/r0b1n/.emacs.d/elpa/" (22195 7209 0 0) "zygospore-20140703.152/" "ztree-20160127.1542/" "yasnippet-20160131.948/" "xml-rpc-20150902.1827/" "ws-butler-20150126.759/" "with-editor-20160128.1201/" "websocket-20160124.2020/" "web-completion-data-20150623.333/" "w3m-20121224.1747/" "volatile-highlights-20141004.2240/" "undo-tree-20140509.522/" "switch-window-20150114.215/" "swiper-20160203.434/" "spinner-1.4/" "smex-20151212.1409/" "smarty-mode-20100703.458/" "smartparens-20160108.1403/" "seq-1.11/" "s-20160115.58/" "request-20160108.33/" "rainbow-mode-0.12/" "rainbow-delimiters-20150320.17/" "queue-0.1.1/" "qml-mode-20160108.704/" "pyvenv-20160108.28/" "pythonic-20160202.45/" "python-environment-20150310.153/" "py-autopep8-20151231.614/" "projectile-20160130.457/" "popup-20151222.1339/" "pkg-info-20150517.443/" "php-mode-20151002.2030/" "pastelmac-theme-20151030.1936/" "packed-20150723.438/" "org2blog-20151208.828/" "org-20160201/" "ob-ipython-20151010.307/" "metaweblog-20141130.605/" "meacupla-theme-20151027.1517/" "math-symbol-lists-20151215.1043/" "material-theme-20160120.103/" "markdown-preview-mode-20160114.2354/" "markdown-mode-20160121.528/" "magit-popup-20160130.649/" "let-alist-1.0.4/" "julia-mode-20150912.800/" "jedi-core-20151214.705/" "jedi-20151214.705/" "javap-mode-20120223.1408/" "iedit-20150915.2022/" "ido-ubiquitous-20160115.1626/" "ido-completing-read+-20151219.836/" "ibuffer-vc-20150714.1320/" "html5-schema-readme.txt" "highlight-indentation-20150307.1808/" "highlight-20151231.1337/" "helm-swoop-20160131.533/" "helm-projectile-20151220.221/" "helm-gtags-20160202.503/" "helm-core-20160203.219/" "helm-20160203.2150/" "go-mode-20160127.4/" "git-commit-20160130.649/" "ggtags-20151214.1344/" "flymake-python-pyflakes-20131127.6/" "flymake-easy-20140818.55/" "flymake-cppcheck-20140415.557/" "flycheck-pyflakes-20140630.1521/" "flycheck-perl6-20150414.1832/" "flycheck-20160129.311/" "find-file-in-project-20151217.1050/" "f-20151113.123/" "exec-path-from-shell-20160112.2246/" "eval-sexp-fu-20131230.1351/" "ess-R-data-view-20130509.458/" "ess-20160131.1236/" "epl-20150517.433/" "epc-20140609.2234/" "elpy-20160131.118/" "ein-20160203.2026/" "duplicate-thing-20120515.948/" "dtrt-indent-20151013.214/" "dired+-20160124.1907/" "diminish-20151215.915/" "diff-hl-20160203.1501/" "deferred-20160109.2046/" "dash-functional-20150828.413/" "dash-20151216.1315/" "ctable-20140304.1659/" "concurrent-20160109.2046/" "company-web-20151219.317/" "company-qml-20151027.835/" "company-math-20160119.548/" "company-jedi-20151216.1921/" "company-go-20151211.1024/" "company-c-headers-20150801.901/" "company-ansible-20150901.250/" "company-anaconda-20151230.1103/" "company-20160201.1400/" "comment-dwim-2-20150825.1549/" "closure-lint-mode-20101118.1324/" "clojure-snippets-20150504.144/" "clojure-quick-repls-20150814.36/" "clojure-mode-extra-font-locking-20160116.321/" "clojure-mode-20160130.420/" "clean-aindent-mode-20150816.2029/" "cl-generic-0.2/" "cider-spy-20151123.746/" "cider-profile-20141120.625/" "cider-eval-sexp-fu-20150320.2015/" "cider-decompile-20151121.2137/" "cider-20160203.2145/" "bongo-20151205.809/" "better-defaults-20160127.2318/" "auto-complete-c-headers-20150911.2023/" "auto-complete-auctex-20140223.958/" "auto-complete-20160107.8/" "auto-compile-20151107.1408/" "auctex-11.89.1/" "async-20160108.1249/" "archives/" "anzu-20160130.1855/" "anybar-readme.txt" "anaconda-mode-20150922.537/" "ag-20160126.1135/" "ac-c-headers-20151021.134/" "2048-game-20151026.1233/" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter15/" (22196 25958 0 0) "xml_sax.py" "xml_minidom.py" "htmlparser_1.py" "headings.html" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter16/" (22196 36912 0 0) "SuperSimpleSocketServer.py" "SubjectPop3Lister.py" "SendMail.py" "PythonChatServer.py" "PythonChatClient.py" "MultiThreadingServer.py" "MirrorSocketServer.py" "MailBoxSubjectLister.py" "IMAPSubjectLister.PY" "FormatMimeMultipartMessage.py" "__pycache__/" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter11/" (22196 24310 0 0) "scan_pdf.py" "a.pdf" "__pycache__/" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/" (22196 24332 0 0) "Chapter9/" "Chapter8/" "Chapter7/" "Chapter6/" "Chapter5/" "Chapter21/" "Chapter19/" "Chapter17/" "Chapter16/" "Chapter15/" "Chapter14/" "Chapter13/" "Chapter12/" "Chapter11/" "Chapter10/" "backup/" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter14/" (22196 25455 0 0) "websites" "updatemgr.py" "terminate.py" "simplequery.py" "sample_database" "insertdata.py" "finduser.py" "dbmcreate.py" "dbmaccess.py" "createdb.py" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter13/" (22196 6603 0 0) "tkinter-demo.py" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter12/" (22196 5509 0 0) "test_find.py" "test2.py" "test1.py" "find.pyc" "find.py" "assert_demo.py" "__pycache__/" "../" "./")
+
+ ("/Volumes/Data/Code/HelloWorld/" (22193 25719 0 0) "test.R" "test.python" "test.md" "test.html" "test.h" "test.c" "styles.css" "MWeb test.md" "MWeb test.html" "Markdown syntax guide and writing on MWeb.md" "makefile" "hello.tex" "hello.py" "hello.pdf" "hello.org" "hello.log" "hello.lisp" "hello.java" "hello.html" "hello.cpp" "hello.aux" "apue.h" "app.py" "../" "./")
+
+ ("/Volumes/Data/Downloads/beginning-python-codes/Chapter6/" (22194 42526 0 0) "Ch6_classes.py" "../" "./")
+
+ ("/Volumes/Data/Downloads/beginning-python-codes/Chapter7/" (22195 9893 0 0) "Kitchen/" "Foods.py" "__pycache__/" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter7/Kitchen/" (22195 12112 0 0) "test.txt" "Recipe.py" "Omelet.py" "Fridge.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter10/" (22196 3187 0 0) "setup.py" "mealtest2.py" "mealtest.py" "mealproblem.py" "meal.pyc" "meal.py" "MANIFEST" "dist/" "build/" "__pycache__/" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter9/" (22196 1182 0 0) "Ch9.py" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter8/" (22195 13229 0 0) "test.txt" "Ch8.py" "__pycache__/" "../" "./")
+
+ ("/Users/r0b1n/Downloads/beginning-python-codes/Chapter7/" (22195 9893 0 0) "Kitchen/" "Foods.py" "__pycache__/" "../" "./")
+
+ ("/Users/r0b1n/Downloads/.ipynb_checkpoints/" (22150 132 0 0) "mynotebook-checkpoint.ipynb" "../" "./")
+
+ ("/Volumes/Data/Downloads/beginning-python-codes/" (22193 29625 0 0) "Chapter9/" "Chapter8/" "Chapter7/" "Chapter6/" "Chapter5/" "Chapter21/" "Chapter19/" "Chapter17/" "Chapter16/" "Chapter15/" "Chapter14/" "Chapter12/" "Chapter11/" "Chapter10/" "Chapter 9.zip" "Chapter 8.zip" "Chapter 7.zip" "Chapter 6.zip" "Chapter 5.zip" "Chapter 21.zip" "Chapter 19.zip" "Chapter 17.zip" "Chapter 16.zip" "Chapter 15.zip" "Chapter 14.zip" "Chapter 12.zip" "Chapter 11.zip" "Chapter 10.zip" "../" "./")
+
+ ("/Volumes/Data/Downloads/beginning-python-codes/Chapter5/" (22194 41527 0 0) "ch5-demo.py" "ch5-code.py" "../" "./")
+
+ ("/Users/r0b1n/Documents/r0b1n/" (22190 48633 0 0) "音乐.txt" "配置网卡ipv6地址 .pages" "邮件通讯录.vcf" "资料库.xml" "聘用申请表-刘斌.doc" "网站服务器的基本架设.pages" "简历-刘斌.docx" "笔记-产品经理与金融业.pages" "笔记-产品经理与金融业.docx" "玩的就是心跳.pages" "桌面虚拟化与VDI.doc" "服务器总结－r0b1n-2014.11.25.xls" "服务器总结－r0b1n-2014.11.25.numbers" "开源软件替代商用软件.xlsx" "开源软件替代商用软件.numbers" "奥普北京维修电话-dh.xls" "奥普北京维修电话-dh.numbers" "北京市各大城区房价.jpg" "刘斌简历-2015-1-27.pages" "中科院图情/" "中文简历_刘斌－liepin.doc" "中国神话故事 .pages" "settings.jar" "SE System Engineer - Jason Tang.docx" "SE System Admin.docx" "Resume_LIUBIN－liepin.doc" "Resume-LIUBIN.docx" "proxy.pac" "paper.synctex.gz" "NWZ-W270S Guide/" "Metalib常见问题/" "help.txt" "firefox-goagnet-patterns.json" "fav.itermcolors" "EndNote-library.zip" "bookmarks_15_11_1.html" "2015学年年度工作总结_刘斌.docx" "2015学工作总结_刘斌_12.12.docx" "2014-2015CSSCI来源期刊变动情况2014.numbers" ".DS_Store" "../" "./")
+
+ ("/Volumes/Data/Code/" (22189 25759 0 0) "RiA2/" "PyQt-Tools/" "pydata-book/" "php-7.0.0/" "orange3-example-addon/" "orange-ipynb/" "NLTK-Book/" "ML_for_Hackers/" "LISPYuan Ma 800Li - Wei Zhi.rar" "ipython-notebook.ipynb" "HelloWorld/" "diveintopython-5.4/" "DeepLearningTutorials/" "DataMining/" "Corpus/" "Coding/" "C++ GUI Programming with Qt 4 2ed/" "backup/" "awesome-machine-learning/" "android-sdk-macosx/" "android-ndk-r10e/" "Advanced Qt Programming source code/" ".DS_Store" "../" "./")
+
+ ("/Users/r0b1n/Documents/Books/" (22189 48404 0 0) "../" "./")
+
+ ("/Users/r0b1n/Documents/" (22189 33431 0 0) "研究课题/" "王晶-论文/" "我的笔记3.enex" "Virtual Machines.localized/" "r0b1n/" "Orange-WorkSpace/" "MySecret.dmg" "My EndNote Library.enlx" "My EndNote Library.Data/" "Microsoft 用户数据/" "EndNote/" "centos-ec2-usa.pem" "calibre-backup/" "calibre/" "Books/" "baidu/" "Backup－Papers/" ".rqd/" ".Rhistory" ".emacs.d/" ".DS_Store" ".com.apple.timemachine.supported" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/r0b1n/.emacs.d/ESS2/etc/" (22190 47945 0 0) "TODO.org" "slow-long-output.R" "sje-ess-notes.txt" "sas-keys.rtf" "sas-keys.ps" "sas-keys.doc" "SAS-bugs.sas" "Rnw-ess-bugs.Rnw" "R_error_patterns.R" "R-pager.R" "R-oxygen-ex.R" "R-ESS-bugs.R" "R-ESS-bugs.el" "pkg1/" "pkg-Maintainers" "other/" "Makefile" "in-string-bug-ex.Rnw" "icons/" "gpl-check" "git-ref" "function-outline.S" "Extract.factor.Rd" "ESSR/" "ess-sp3.S" "ess-sas-sh-command" "ess-s4.S" "ess-rutils-help-start.R" "ess-roxy-tests.R" "ess-julia.jl" "config.guess" "completion_ideas.R" "chol2inv-ex.Rd" "checkTriple.Rd" "C-cC-c-probl.R" "backbugs.sparc" "BACKBUGS.BAT" "backbugs" "backbug5.sparc" "BACKBUG5.BAT" "backbug5" ".IS.RELEASE" "../" "./")
+
+ ("/Users/r0b1n/.emacs.d/ESS2/" (22190 47945 0 0) "VERSION" "test/" "rsn.txt" "RPM.spec.in" "RPM.spec" "README.md" "README" "OONEWS" "ONEWS" "NEWS" "mkinstalldirs" "Makefile" "Makeconf" "lisp/" "LDA/" "install-sh" "fontlock-test/" "etc/" "ess-autoloads.el" "doc/" "debian/" "COPYING" "ChangeLog" "ANNOUNCE" ".gitignore" ".dir-locals.el" "../" "./")
+
+ ("/Users/r0b1n/workspace/elpa/" (22190 42697 0 0) "README" "packages/" "html/" "GNUmakefile" "externals-list" "copyright_exceptions" "COPYING" "admin/" ".gitignore" ".git/" ".bzrignore" "../" "./")
+
+ ("/Volumes/Data/" (22069 23152 0 0) "workspace/" "VMwareDisk/" "Soft/" "Pictures/" "Music/" "Movies/" "Downloads/" "Documents/" "Code/" ".Trashes/" ".TemporaryItems/" ".Spotlight-V100/" ".fseventsd/" ".DS_Store" ".DocumentRevisions-V100/" ".com.apple.timemachine.supported" "../" "./")
+
+ ("/Volumes/Data/Documents/" (22188 439 0 0) "研究课题/" "我的笔记3.enex" "Virtual Machines.localized/" "r0b1n/" "Orange-WorkSpace/" "MySecret.dmg" "My EndNote Library.enlx" "My EndNote Library.Data/" "Microsoft 用户数据/" "LiClipse Workspace/" "EndNote/" "centos-ec2-usa.pem" "calibre/" "Books/" "baidu/" ".rqd/" ".Rhistory" ".emacs.d/" ".DS_Store" ".com.apple.timemachine.supported" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Volumes/Data/Documents/研究课题/" (22038 30387 0 0) "课题-姜哥-知识库/" "课题-大数据背景下知识图谱构建系统研究/" "课题-国内外学术期刊评价体系对比研究/" "课题-北京自然科学基金/" "课题-云计算在图书馆中的应用/" "课题-Solr-Nutch/" "虚拟化行业报告2012-12-5.pptx" "虚拟化行业报告2012-12-5.pdf" "王晶-论文/" "微信开发-文档-维程资料/" "~$虚拟化行业报告2012-12-5.pptx" "TEP成绩打印系统/" "Qt应用开发/" "IT培训/" "fronware-白皮书/" "Docker-轻量级PaaS平台.ppt" "3D打印-创客空间/" ".DS_Store" "../" "./")
+
+ ("/Volumes/Data/Documents/研究课题/课题-国内外学术期刊评价体系对比研究/" (21915 48907 0 0) "魏老师简历.txt" "魏翔老师项目.docx" "项目组成员相关/" "申请书-北京第二外国语学院-国内外学术期刊评价体系对比研究.docx" "申请书-北京第二外国语学院-国内外学术期刊评价体系对比研究.doc" "活页-北京第二外国语学院-国内外学术期刊评价体系对比研究.docx" "活页-北京第二外国语学院-国内外学术期刊评价体系对比研究.doc" "替代计量学的提出过程与研究进展_邱均平.pdf" "情报学报.pdf" "学术期刊评价体系对比.graphml" "学术期刊评价体系对比-2.png" "图书馆论坛.pdf" "图书馆论坛-格式.pdf" "图书馆论坛/" "国内外学术期刊评价体系对比研究-Papers.zip" "出版课题/" "My EndNote Library-3.26.xml" "Evaluation-Sci-Journals-En /" "Evaluation-Sci-Journals-Ch/" "Altmetrics in the wild.pdf" "2015国家社科基金-青年项目.xls" "2015国家社科基金-一般项目.xls" ".DS_Store" "../" "./")
+
+ ("/Users/" (22185 33966 0 0) "Shared/" "r0b1n/" "Guest/" "felipe/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

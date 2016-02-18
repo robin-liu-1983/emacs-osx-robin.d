@@ -1,0 +1,1 @@
+(define-package "flycheck-mercury" "20151122.2334" "Mercury support in Flycheck" '((flycheck "0.22") (s "1.9.0") (dash "2.4.0")) :url "https://github.com/flycheck/flycheck-mercury" :keywords '("convenience" "languages" "tools"))

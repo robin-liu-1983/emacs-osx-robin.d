@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+from distutils.core import setup
+
+setup(
+    name='nester',
+    version='0.0.1',
+    # TODO: be sure to change these next few lines to match your details!
+    py_modules=['nester'],
+    author='liu1983bin',
+    author_email='liu1983bin@gmail.com',
+    url='http://www.robin-liu.com',
+    description='A simple printer of nested lists',
+)

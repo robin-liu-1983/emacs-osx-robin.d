@@ -1,0 +1,4 @@
+#!/Users/r0b1n/workspace/o3/bin/python
+from Orange import canvas
+
+canvas.main()

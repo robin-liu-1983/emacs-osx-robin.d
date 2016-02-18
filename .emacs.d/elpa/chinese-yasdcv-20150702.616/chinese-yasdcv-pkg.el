@@ -1,0 +1,1 @@
+(define-package "chinese-yasdcv" "20150702.616" "Yet another frontend for the StarDict command-line program" '((cl-lib "0.5") (chinese-pyim "0.0.1")) :url "https://github.com/tumashu/chinese-yasdcv" :keywords '("convenience" "chinese" "dictionary"))

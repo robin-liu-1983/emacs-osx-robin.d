@@ -1,0 +1,36 @@
+#此类配置可以在命令行模式中输入show-options -g查询
+# base
+set -g base-index 1                        #窗口的初始序号；默认为0，这里设置为1
+
+set -g display-time 3000                   #提示信息的持续时间；设置足够的时间以避免看不清提示，单位为毫秒
+set -g repeat-time 1000                    #控制台激活后的持续时间；设置合适的时间以避免每次操作都要先激活控制台，单位为毫秒
+set -g history-limit 1000
+
+set-option -g prefix C-t
+unbind-key C-b
+bind-key C-t send-prefix
+
+# mouse
+#set -g mouse on
+#set -g mode-mouse on         # 开启鼠标控制
+
+#set -g mouse-resize-pane on  # 开启鼠标可调整pane大小
+#set -g mouse-select-pane on  # 开启鼠标可选择pane
+#set -g mouse-select-window on # 开启鼠标可选择窗口
+
+#window
+#此类设置可以在命令行模式中输入show-window-options -g查询
+set -w -g utf8 on         #开启窗口的UTF-8支持
+
+#bind key
+unbind '"'    # 取消上下分割
+bind - splitw -v
+unbind %
+bind | splitw -h
+
+bind q confirm kill-session                     #按z结束当前会话；相当于进入命令行模式后输入kill-session
+bind k confirm kill-window
+
+#title
+set -g set-titles on
+set -g set-titles-string "#T"

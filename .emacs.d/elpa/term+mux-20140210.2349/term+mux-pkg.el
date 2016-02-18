@@ -1,0 +1,1 @@
+(define-package "term+mux" "20140210.2349" "term+ terminal multiplexer and session management" '((term+ "0.1") (tab-group "0.1")) :url "http://github.com/tarao/term+-el" :keywords '("terminal" "emulation"))
