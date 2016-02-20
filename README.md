@@ -117,4 +117,19 @@ https://github.com/r0b1n1983liu/oh-my-zsh.git
 
 git config --global list
 
-git config --global credential.helper store
+1. 
+`git config --global credential.helper store`
+
+2. 
+`touch .git-credentials`
+
+`vim .git-credentials`
+
+`https://{username}:{password}@github.com`
+
+3.
+进入%HOME%目录，新建一个名为"_netrc"的文件，文件中内容格式如下：
+
+machine {git account name}.github.com
+login your-usernmae
+password your-password
