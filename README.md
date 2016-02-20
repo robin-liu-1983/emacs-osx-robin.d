@@ -114,3 +114,7 @@ on mac use iterm2 and zsh
 oh-my-zsh:
 
 https://github.com/r0b1n1983liu/oh-my-zsh.git
+
+git config --global list
+
+git config --global credential.helper store
